@@ -1,1 +1,3 @@
-
+feed-cat
+set-time
+activate-device
